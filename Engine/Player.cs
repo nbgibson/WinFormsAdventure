@@ -17,6 +17,8 @@ namespace Engine
             Gold = gold;
             ExperiencePoints = experiencePoints;
             Level = level;
+            Inventory = new List<InventoryItem>();
+            Quests = new List<PlayerQuest>();
         }
     }
 }
