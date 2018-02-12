@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adventure", "Adventure\Adventure.csproj", "{119A3106-BEE7-479A-BC9A-3965475AA6C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine", "Engine\Engine.csproj", "{78DE79F4-3C8D-4E37-AE99-B5169E85F0B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{119A3106-BEE7-479A-BC9A-3965475AA6C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{119A3106-BEE7-479A-BC9A-3965475AA6C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{119A3106-BEE7-479A-BC9A-3965475AA6C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{119A3106-BEE7-479A-BC9A-3965475AA6C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78DE79F4-3C8D-4E37-AE99-B5169E85F0B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78DE79F4-3C8D-4E37-AE99-B5169E85F0B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78DE79F4-3C8D-4E37-AE99-B5169E85F0B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78DE79F4-3C8D-4E37-AE99-B5169E85F0B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABC5DAF2-5C89-420A-BFA3-6F2A742A6D48}
+	EndGlobalSection
+EndGlobal
